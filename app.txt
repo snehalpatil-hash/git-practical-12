@@ -1,2 +1,3 @@
 Welcome to the Test Automation Project
 Version: 1.0
+Conflict resolved successfully.
